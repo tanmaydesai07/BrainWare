@@ -1,0 +1,7 @@
+train: C:/College Proj/appliances/train/images
+val: C:/College Proj/appliances/valid/images
+test: C:/College Proj/appliances/test/images
+
+nc: 8
+names: ['Bulb', 'Fan', 'TubeLight', 'Rock', 'ceiling-fan', 'Lampu-Pintar', 'bulb', 'bulb_ON']
+

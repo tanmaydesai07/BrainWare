@@ -1,0 +1,8 @@
+Bulb
+Fan
+TubeLight
+Rock
+ceiling-fan
+Lampu-Pintar
+bulb
+bulb_ON'

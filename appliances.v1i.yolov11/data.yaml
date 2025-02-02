@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['bulb_off', 'bulb_on', 'fan_off', 'fan_on', 'tubelight_off', 'tubelight_on']
+
+roboflow:
+  workspace: appliances-kcjvb
+  project: appliances-iggpo
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/appliances-kcjvb/appliances-iggpo/dataset/1

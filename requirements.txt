@@ -1,0 +1,15 @@
+annotated-types==0.7.0
+opencv-python==4.10.0.84
+numpy==2.0.1
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.57
+scikit-learn==1.6.1
+scipy==1.15.0
+pandas==2.2.3
+matplotlib==3.10.0
+requests==2.32.3
+pyyaml==6.0.2
+pyttsx3==2.98
+seaborn==0.13.2
+keyboard==0.13.5
